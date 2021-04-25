@@ -19,12 +19,12 @@ DHT dht(DHTPIN, DHTTYPE);
 BlynkTimer timer;
 
 // Go to the Project Settings (nut icon).
-char auth[] = "VI9819cUysEbypzHfkGLY1YWB9o2Hljn";
+char auth[] = "VI9819cUys********GLY1YWB9o2Hljn";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "srivastava";
-char pass[] = "akhilesh45";
+char pass[] = "a********5";
 
 
 void sendSensor1()
