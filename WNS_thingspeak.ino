@@ -4,9 +4,9 @@
 #define DHTPIN D4   //       
 DHT dht(DHTPIN, DHT11);
  
-String apiKey = "S75YX1XPKD500HDI"; 
+String apiKey = "S75Y********0HDI"; 
 const char *ssid = "srivastava";     
-const char *pass = "akhilesh45";
+const char *pass = "ak**********";
 const char* server = "api.thingspeak.com";
  
  
